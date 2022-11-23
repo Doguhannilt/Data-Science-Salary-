@@ -1,5 +1,5 @@
 # GOAL    
-    Analyze the database to measure the salaries of data scientists and what type of data scientists get much or less salaries. 
+    Analyze the dataset to measure the salaries of data scientists and what type of data scientists get much or less salaries. 
     After that find out how much our company must pay for data scientists by using ML
 
 # Tools and libraries that i used in this project:
@@ -16,8 +16,8 @@
 
 # Summary:
 
-Analyze the databases by using Matplotlib&Pandas: 
-    The conclusions
+Analyze the dataset by using Matplotlib&Pandas: 
+
     Conclusion
 
 1-) The Companies&Salaries are regularly scattered but small companies pays much more than Medium companies
